@@ -1,6 +1,6 @@
 streamlit==1.41.1
-torch==2.5.1+cpu
-torchvision==0.20.1+cpu
+torch==2.5.1
+torchvision==0.20.1
 Pillow==10.3.0
 joblib==1.4.2
 numpy==2.0.0
