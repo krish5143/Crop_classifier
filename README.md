@@ -1,6 +1,7 @@
-# End-to-End Deep Learning Crop Classification System
+# 🥑 End-to-End Deep Learning Crop Classification System
 
-**Live Demo:** [https://crop-classifier-q3yf.onrender.com](https://crop-classifier-q3yf.onrender.com)
+## 🚀 Live Demo
+[Click here to open the Live Demo](https://crop-classifier-q3yf.onrender.com)
 
 This project demonstrates a complete end-to-end Data Science pipeline, from model engineering and training to full-stack web application deployment. It classifies images of agricultural crops using Deep Learning.
 
@@ -9,7 +10,7 @@ This project demonstrates a complete end-to-end Data Science pipeline, from mode
 ## 📸 Deployment Visualization
 The screenshot below shows a successful classification (e.g., Avocado plant) along with integrated botanical facts.
 
-![Crop Classifier Sample Webapp](crop_classifier_sample_webapp.png)
+![Crop Classifier Sample Webapp](https://github.com/krish5143/Crop_classifier/blob/master/crop_classifier_sample_webapp.png?raw=true)
 
 ---
 
