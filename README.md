@@ -8,10 +8,11 @@ This project demonstrates a complete end-to-end Data Science pipeline, from mode
 ---
 
 ## 📸 Deployment Visualization
-The screenshot below shows a successful classification (e.g., Avocado plant) along with integrated botanical facts.
+## 🖼️ Demo (UI Screenshot)
 
-![Crop Classifier Sample Webapp](https://github.com/krish5143/Crop_classifier/blob/master/crop_classifier_sample_webapp.png?raw=true)
+Below is a preview screenshot of the application UI:
 
+![Demo Screenshot](crop_classifer_sample_webapp.png)
 ---
 
 ## ✨ Key Features
