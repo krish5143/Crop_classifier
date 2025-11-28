@@ -1,4 +1,4 @@
-# 🥑 End-to-End Deep Learning Crop Classification System
+# End-to-End Deep Learning Crop Classification System
 
 ## 🚀 Live Demo
 [Click here to open the Live Demo](https://crop-classifier-q3yf.onrender.com)
